@@ -1,4 +1,4 @@
-![logo](https://github.com/Zeeshan2912/Zeeshan2912/blob/main/DATA%20IS%20FUTURE.png)
+![logo](https://github.com/Zeeshan2912/Zeeshan2912/blob/main/GitHhub%20Poster_1.png)
 <h1 align="center">Hi 👋, I'm MOHAMMED ZEESHAN KHAN</h1>
 <h3 align="center">AI Engineer | GenAI & MLOps Specialist</h3>
 
